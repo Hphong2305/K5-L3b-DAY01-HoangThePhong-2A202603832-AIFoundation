@@ -7,12 +7,11 @@
 - **SEED** (in ở ô đầu notebook):
 
 ## 1. Bằng chứng
-
-| Tệp | Có? || Không |
-| --- | --- || --- |
-| [`day01_lab.ipynb`](day01_lab.ipynb) — notebook đã chạy, còn output | x ||. |
-| [`lab1_report.json`](lab1_report.json) — do ô "Báo cáo cuối" sinh ra | x ||  |
-| [`hand_calc.jpg`](hand_calc.jpg) — ảnh tính tay có các bước | x ||. |
+| Tệp | Có? |
+| --- | --- |
+| [`day01_lab.ipynb`](day01_lab.ipynb) — notebook đã chạy, còn output | ✅ |
+| [`lab1_report.json`](lab1_report.json) — do ô "Báo cáo cuối" sinh ra | ✅ |
+| [`hand_calc.jpg`](hand_calc.jpg) — ảnh tính tay có các bước | ✅ |
 
 ## 2. Kết quả chính
 
