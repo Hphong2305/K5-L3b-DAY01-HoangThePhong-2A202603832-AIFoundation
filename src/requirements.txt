@@ -1,0 +1,12 @@
+# Lab chính chạy trên Colab (đã có sẵn phần lớn thư viện). File này chỉ cần khi chạy trên máy cá nhân.
+# Python 3.11+ (CI dùng 3.11). Có cận trên để tránh bản major mới làm vỡ notebook. Kiểm tra lần cuối: 11/2026.
+numpy>=1.26,<3
+pandas>=2.0,<4
+matplotlib>=3.8,<4
+torch>=2.2,<3
+sentence-transformers>=3.0,<7
+kagglehub>=0.3,<2
+openai>=1.66,<4          # cần reasoning_effort / max_completion_tokens
+anthropic>=2.5,<3        # chỉ khi LLM_PROVIDER = "anthropic"
+pytest>=8,<10
+jupyter

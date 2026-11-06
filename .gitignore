@@ -1,0 +1,19 @@
+# Python / notebook runtime
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets — chỉ commit .env.example
+.env
+.env.*
+!.env.example
+
+# Artifact sinh ra khi chạy notebook ở gốc repo / trong src (bản nộp nằm ở report/individual/ vẫn được commit)
+/lab1_report.json
+/src/lab1_report.json
+*.zip
+
+# OS
+.DS_Store
